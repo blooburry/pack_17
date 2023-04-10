@@ -2,7 +2,7 @@
 a resource pack for group 17!
 
 ## usage
-Go to the version folder, and zip `/assets`, `pack.png` and `pack.mcmeta` into a zip file. Then put that zipfile in your .minecraft/resourcepacks.
+Compress `/assets`, `pack.png` and `pack.mcmeta` into a zip file. Then put that zipfile in your .minecraft/resourcepacks. In-game, select the resource pack and enable it.
 
 ## contribution
 pls yes uwu
