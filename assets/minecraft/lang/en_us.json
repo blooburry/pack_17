@@ -18,5 +18,12 @@
   "subtitles.entity.dolphin.swim": "Blåhaj swims",
   "death.fell.accident.generic": "%1$s pulled a Lukas move",
   "block.minecraft.sunflower": "Solflower",
-  "biome.minecraft.sunflower_plains": "Solflower Plains"
+  "biome.minecraft.sunflower_plains": "Solflower Plains",
+  "block.minecraft.packed_mud": "Packed Mudeline",
+  "block.minecraft.mud": "Mudeline",
+  "block.minecraft.mud_brick_slab": "Mudeline Brick Slab",
+  "block.minecraft.mud_brick_stairs": "Mudeline Brick Stairs",
+  "block.minecraft.mud_brick_wall": "Mudeline Brick Wall",
+  "block.minecraft.mud_bricks": "Mudeline Bricks",
+  "item.minecraft.brick": "En Passant Enforcer"
 }
